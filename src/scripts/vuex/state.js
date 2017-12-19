@@ -1,0 +1,40 @@
+//变量
+
+export default {
+    conTitle:"电子书",
+    navlist:[
+        {name:"sj",title:"书架",path:"/index/sj",icon:"&#xe647;"},
+        {name:"jp",title:"精品",path:"/index/jp",icon:"&#xe63b;"},
+        {name:"sk",title:"书库",path:"/index/sk",icon:"&#xe63f;"},
+        {name:"wd",title:"我的",path:"/index/wd",icon:"&#xe600;"}
+    ],
+    booklist:"",
+    booklist1:"",
+    booklist2:"",
+    list1:[
+        {name:"boy",title:"男生"},
+        {name:"girl",title:"女生"},
+        {name:"out",title:"出版"},
+    ],
+    book:"",
+    book1:"",
+    tit:[
+        {title:"男频",icon:"&#xe64d;"},
+        {title:"女频",icon:"&#xe697;"},
+        {title:"出版精品",icon:"&#xe638;"}
+    ],
+    my:[
+        {name:"grzl",title:"个人资料",icon:"&#xe602;"},
+        {name:"cz",title:"充值",icon:"&#xe703;"},
+        {name:"xf",title:"消费",icon:"&#xe635;"},
+        {name:"zs",title:"赠送",icon:"&#xe624;"},
+        {name:"qd",title:"签到",icon:"&#xe68b;"},
+        {name:"rw",title:"任务",icon:"&#xe64b;"},
+        {name:"sz",title:"设置",icon:"&#xe644;"},
+    ],
+    username:"",
+    password:"",
+    user:"",
+    fbook:"",
+    shelf:"",
+}
